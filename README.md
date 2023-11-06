@@ -1,2 +1,2 @@
 # demo
-Demo repo for github
+Description for demo
